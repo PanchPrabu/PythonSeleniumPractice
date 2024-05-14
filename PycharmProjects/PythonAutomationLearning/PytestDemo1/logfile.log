@@ -1,0 +1,31 @@
+2024-05-06 12:37:41,997: INFO: PytestDemo1.test_logging : Information Statement)
+2024-05-06 12:37:41,998: WARNING: PytestDemo1.test_logging : Something is in warning mode)
+2024-05-06 12:37:41,998: ERROR: PytestDemo1.test_logging : A major error has happened)
+2024-05-06 12:37:41,998: CRITICAL: PytestDemo1.test_logging : Critical Issue)
+2024-05-06 12:43:01,986: INFO: PytestDemo1.test_logging : Information Statement
+2024-05-06 12:43:01,987: WARNING: PytestDemo1.test_logging : Something is in warning mode
+2024-05-06 12:43:01,987: ERROR: PytestDemo1.test_logging : A major error has happened
+2024-05-06 12:43:01,988: CRITICAL: PytestDemo1.test_logging : Critical Issue
+2024-05-06 12:44:57,564: DEBUG: PytestDemo1.test_logging : A debug statement is executed
+2024-05-06 12:44:57,565: INFO: PytestDemo1.test_logging : Information Statement
+2024-05-06 12:44:57,565: WARNING: PytestDemo1.test_logging : Something is in warning mode
+2024-05-06 12:44:57,565: ERROR: PytestDemo1.test_logging : A major error has happened
+2024-05-06 12:44:57,565: CRITICAL: PytestDemo1.test_logging : Critical Issue
+2024-05-06 14:01:22,899: INFO: PytestDemo1.BaseClass : Panch
+2024-05-06 14:01:23,011: INFO: PytestDemo1.BaseClass : panchatcharaprabu@gmail.com
+2024-05-06 14:12:01,369: INFO: test_editprofile : Panch
+2024-05-06 14:12:01,394: INFO: test_editprofile : panchatcharaprabu@gmail.com
+2024-05-06 14:20:19,913: INFO: test_editprofile : Panch
+2024-05-06 14:20:19,929: INFO: test_editprofile : panchatcharaprabu@gmail.com
+2024-05-06 14:20:19,937: DEBUG: PytestDemo1.test_logging : A debug statement is executed
+2024-05-06 14:20:19,937: INFO: PytestDemo1.test_logging : Information Statement
+2024-05-06 14:20:19,937: WARNING: PytestDemo1.test_logging : Something is in warning mode
+2024-05-06 14:20:19,937: ERROR: PytestDemo1.test_logging : A major error has happened
+2024-05-06 14:20:19,938: CRITICAL: PytestDemo1.test_logging : Critical Issue
+2024-05-06 14:24:24,011: INFO: test_editprofile : Panch
+2024-05-06 14:24:24,012: INFO: test_editprofile : panchatcharaprabu@gmail.com
+2024-05-06 14:24:24,031: DEBUG: PytestDemo1.test_logging : A debug statement is executed
+2024-05-06 14:24:24,031: INFO: PytestDemo1.test_logging : Information Statement
+2024-05-06 14:24:24,031: WARNING: PytestDemo1.test_logging : Something is in warning mode
+2024-05-06 14:24:24,031: ERROR: PytestDemo1.test_logging : A major error has happened
+2024-05-06 14:24:24,031: CRITICAL: PytestDemo1.test_logging : Critical Issue
