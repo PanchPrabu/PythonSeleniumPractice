@@ -26,8 +26,8 @@ def update_excel_data(filepath,searchTerm,colName,new_value):
 
 
 file_path = "C:/Users/USER/Downloads/download.xlsx"
-fruit_name ='Banana'
-newvalue="200"
+fruit_name ='Apple'
+newvalue="500"
 driver = webdriver.Chrome()
 driver.implicitly_wait(5)
 driver.maximize_window()
